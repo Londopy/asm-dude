@@ -68,7 +68,7 @@ Studio under the experimental environment.
 * Label rename assistance.
 * Code formatting.
 * Track flag influence. Select an opcode that uses a flag (as input), find the opcodes that produce this flag (as output). E.g.  select opcode cmovc or setc , highlight all opcodes such as btr, sal, sar, shl, shr, etc.
-* Register rename assistance. Highly desirable but very challenging. E.g. rename GPR rdx to rbx, find which rdx, edx, dx, dl and dh will need to be renamed, check if renames will clash with existing occurances of rbx, ebx, bx, bl and bh.
+* Register rename assistance. Highly desirable but very challenging. E.g. rename GPR rdx to rbx, find which rdx, edx, dx, dl and dh will need to be renamed, check if renames will clash with existing occurrences of rbx, ebx, bx, bl and bh.
 * Arm support.
 * Nasm macros syntax highlighting.
 * Add support for MASM keyword "comment".
